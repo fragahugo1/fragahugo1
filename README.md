@@ -2,8 +2,10 @@
 
 <div>
   <a href="https://github.com/fragahugo1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fragahugo1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fragahugo1&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api/?username=fragahugo1&count_private=true&theme=dark&showicons=true&include_all_commits=true&hide_border=true"/>
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=fragahugo1&layout=compact&theme=dark&langs_count=10&hide_border=true"/>
 </div>
  
 <div style="display: inline_block"><br>
