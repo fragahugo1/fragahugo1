@@ -1,19 +1,17 @@
 ### Hi there! 😁 I am Hugo Fraga
+Bolsista de Iniciação Científica 09/2023-09/2024
 
 <div>
   <a href="https://github.com/fragahugo1">
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api/?username=fragahugo1&count_private=true&theme=dark&showicons=true&include_all_commits=true&hide_border=true"/>
   <img height="180em" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=fragahugo1&layout=compact&theme=dark&langs_count=10&hide_border=true"/>
 </div>
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Hugo-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Hugo-Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
   <img align="center" alt="Hugo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Hugo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Hugo-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Hugo-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Hugo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ##
